@@ -24,9 +24,9 @@ Get into that credentials.py file and add you details to the host, username and 
 
 As an example.
 
-host = 'https://myapic.example.com'
+host = 'https://sandboxapicdc.cisco.com'
 username = 'admin'
-password = 'QWer1234'
+password = 'ciscopsdt'
 
 ## Usage
 
