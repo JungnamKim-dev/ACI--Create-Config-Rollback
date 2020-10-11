@@ -2,7 +2,7 @@
 
 This simple script will create a config rollback point on your APIC. It's an ideal starting module for any APIC automation scripts because it creates a cookie to use in all subsequents POSTs and there's that rollback point if your change goes south.
 
-![https://github.com/mrdavehill/ACI--Create-Config-Rollback/blob/main/APICSnapshot.jpg]()
+!https://github.com/mrdavehill/ACI--Create-Config-Rollback/blob/main/APICSnapshot.jpg()
  
 ## Use Case Description
 
