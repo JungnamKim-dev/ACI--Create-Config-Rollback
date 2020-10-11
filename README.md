@@ -6,7 +6,13 @@ This simple script will create a config rollback point on your APIC. It's an ide
  
 ## Use Case Description
 
-Describe the problem this code addresses, how your code solves the problem, challenges you had to overcome as part of the solution, and optional ideas you have in mind that could further extend your solution.
+Dev.
+
+Test code and easily back any changes out.
+
+Prod.
+
+Create a rollback as a first step in any script and reference the change record number. CAB will love you.
 
 ## Installation
 
