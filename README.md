@@ -6,11 +6,11 @@ This simple script will create a config rollback point on your APIC. It's an ide
  
 ## Use Case Description
 
-###Dev.
+Dev.
 
 Test code and easily back any changes out. Update, rinse, repeat.
 
-###Prod.
+Prod.
 
 Create a rollback as a first step in any script and reference the change record number. CAB will love you.
 
@@ -20,7 +20,9 @@ Clone to your machine, update credentials.py, run APICSnapshot.py.
 
 ## Configuration
 
-get into credentials.py and add you details to the host, username and password objects.
+Get into that credentials.py file and add you details to the host, username and password objects.
+
+As an example.
 
 host = 'https://myapic.example.com'
 username = 'admin'
