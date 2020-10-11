@@ -20,7 +20,7 @@ Clone to your machine, update credentials.py, run APICSnapshot.py.
 
 ## Configuration
 
-Get into that credentials.py file and add you details to the host, username and password objects.
+Get into that credentials.py file and add your details to the host, username and password objects.
 
 It's currently set up to use a Cisco Devnet sandbox but you can change that to suit your environment.
 
