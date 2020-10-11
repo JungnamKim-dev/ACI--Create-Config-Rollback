@@ -4,6 +4,6 @@
 Your creds in here buddy
 """
 
-host = ''
-username = ''
-password = ''
+host = 'https://sandboxapicdc.cisco.com'
+username = 'admin'
+password = 'ciscopsdt'
