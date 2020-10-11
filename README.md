@@ -8,7 +8,7 @@ This simple script will create a config rollback point on your APIC. It's an ide
 
 Dev.
 
-Test code and easily back any changes out.
+Test code and easily back any changes out. Update, rinse, repeat.
 
 Prod.
 
@@ -16,16 +16,19 @@ Create a rollback as a first step in any script and reference the change record 
 
 ## Installation
 
-Detailed instructions on how to install, configure, and get the project running. Call out any dependencies. This should be frequently tested and updated to make sure it works reliably, accounts for updated versions of dependencies, etc.
+Clone to your machine, update credentials.py, run APICSnapshot.py.
 
 ## Configuration
 
-If the code is configurable, describe it in detail, either here or in other documentation that you reference.
+credentials.py
+
+host = 'https://myapic.example.com'
+username = 'admin'
+password = 'QWer1234'
 
 ## Usage
 
-Show users how to use the code. Be specific.
-Use appropriate formatting when showing code snippets or command line output.
+There's an example of this script in one of my projects that [creates EPGs, BDs and Vlan pools.](https://github.com/mrdavehill/ACI---Add-BD-EPG-and-Vlan-Pool/blob/main/APICImporter.py)
 
 ### DevNet Sandbox
 
